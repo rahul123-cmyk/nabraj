@@ -25,7 +25,7 @@
 </div>
 
 <div class="text-right">
-<v-btn> read more</v-btn>
+<Nuxt-Link to="/notices"> <v-btn> read more</v-btn></Nuxt-Link>
 </div>
 
 
